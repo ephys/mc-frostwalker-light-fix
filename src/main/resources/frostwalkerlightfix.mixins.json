@@ -1,0 +1,13 @@
+{
+  "minVersion": "0.8",
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "frostwalkerlightfix.mixins.refmap.json",
+  "package": "be.ephys.frostwalkerlightfix.mixins",
+  "mixins": [
+    "FrostedIceBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
