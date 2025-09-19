@@ -1,6 +1,8 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "Frostwalker Light Fix resources"
+    "description": {
+      "text": "${mod_id} resources"
+    },
+    "pack_format": 15
   }
 }
